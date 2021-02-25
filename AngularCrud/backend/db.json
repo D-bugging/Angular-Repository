@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Aorus Laptop",
+      "price": 5000.9
+    },
+    {
+      "id": 3,
+      "name": "Sangung S20+",
+      "price": 3000.89
+    }
+  ]
+}
