@@ -5,6 +5,10 @@
   - Cria aplicação:
   ng new app-name
 
+  - Gerar novo component:
+  ng generate component components/template/header -> Para criar o component de cabeçalho
+  ng generate component components/template/footer
+
 * App inicialização
   - main.ts -> Primeiro arquivo que será chamado para executar aplicação em Angular
   - AppModule -> Módulo que será chamado para inicializar a aplicação
