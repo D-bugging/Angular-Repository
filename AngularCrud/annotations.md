@@ -11,6 +11,7 @@
 
   - Criar novo service:
   ng generate service services/product
+  ng generate service components/product/product
 
 * App inicialização
   - main.ts -> Primeiro arquivo que será chamado para executar aplicação em Angular
